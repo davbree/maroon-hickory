@@ -2,7 +2,7 @@ import React from 'react';
 import _ from 'lodash';
 
 import components, {Layout} from '../components/index';
-
+//g
 export default class Advanced extends React.Component {
     render() {
         return (
